@@ -54,12 +54,13 @@ Line Visual 📈
 
 # **Tools & Techniques Used 🛠️**
 
-**Power BI Desktop:**
-Visual design and dashboard creation 
+**Power BI Desktop** 
+ (Visual design and dashboard creation)
 
-**Power Query Editor:** 
-Data transformation and cleansing 
+**Power Query Editor**  
+ (Data transformation and cleansing)
 
-**DAX (optional):** 
-Calculated columns for grades, percentages, result logic 
+# Created By**
+
+Saniya Devarshi
 
