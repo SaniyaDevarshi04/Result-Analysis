@@ -60,7 +60,7 @@ Line Visual 📈
 **Power Query Editor**  
  (Data transformation and cleansing)
 
-# Created By**
+# **Created By**
 
 Saniya Devarshi
 
