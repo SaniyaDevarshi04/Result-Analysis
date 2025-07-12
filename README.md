@@ -60,7 +60,16 @@ Line Visual 📈
 **Power Query Editor**  
  (Data transformation and cleansing)
 
-# **Created By**
+# **🖼️ Dashboard Snapshot :**
 
+<img width="1480" height="800" alt="Dashboard" src="https://github.com/user-attachments/assets/cabfdb47-5ed1-42f6-8c01-0c31d2217297" />
+
+
+
+👩‍💻 Developed By
 Saniya Devarshi
+
+🎓 BCA (Data Science) | 2023–2026
+
+📍 Sri Balaji University, Pune
 
